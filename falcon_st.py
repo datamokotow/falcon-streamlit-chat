@@ -4,7 +4,7 @@ from langchain import PromptTemplate, LLMChain
 import os
 
 # Set Hugging Face Hub API token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = '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'
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = 'Enter your key here'
 
 # Set up the language model using the Hugging Face Hub repository
 repo_id = "tiiuae/falcon-7b-instruct"
