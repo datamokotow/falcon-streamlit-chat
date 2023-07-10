@@ -13,8 +13,7 @@ To get this project up and running on your own machine:
 Clone this repository
 Install the required dependencies using pip install -r requirements.txt
 Run the Streamlit app using streamlit run app.py
-### Live Demo
-If you would like to test Falcon LLM without installing it, we have a live demo available. You can find it here: [link to the live demo]
+
 
 ### Contributing
 We welcome contributions to this project. If you have ideas for improvement or have found issues, please feel free to open an issue or submit a pull request.
